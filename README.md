@@ -105,6 +105,9 @@ There are other interfaces that are more flexible in various ways, including
 support for custom (non-array) input sources. See the header file for more
 information.
 
+If you want to use Snappy with [LevelDB](https://github.com/google/leveldb),
+see [docs/leveldb.md](docs/leveldb.md) for build and configuration steps.
+
 
 Tests and benchmarks
 ====================
